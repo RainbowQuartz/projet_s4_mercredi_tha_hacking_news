@@ -7,7 +7,7 @@
       <h3>Ruby version: 2.5.1</h3>
    <h2>How to install and test?</h2>
       <h4>Download or clone the repository</h4>
-        <code>$ git clone https://github.com/RainbowQuartz/projet_s4_mercredi_blog_des_familles.git</code>
+        <code>$ git clone https://github.com/RainbowQuartz/projet_s4_mercredi_tha_hacking_news</code>
       <h4>Run the command bundle install to install the necessary gems</h4>
         <code>$ bundle install</code>
       <h4>Update your database structure with the migration command.The database in not uploaded to github, so it is necessary tu run the differents migrations:</h4>
