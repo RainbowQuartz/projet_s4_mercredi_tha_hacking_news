@@ -1,3 +1,4 @@
+# Crée la table comments qui va contenir (id, content, user_id, link_id, timestamps)
 class CreateComments < ActiveRecord::Migration[5.2]
   def change
     create_table :comments do |t|

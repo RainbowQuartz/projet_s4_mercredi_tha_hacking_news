@@ -1,3 +1,4 @@
+# Crée la table comment_secondaries qui va contenir (id, content, user_id, comment_id, timestamps)
 class CreateCommentSecondaries < ActiveRecord::Migration[5.2]
   def change
     create_table :comment_secondaries do |t|
